@@ -8,7 +8,7 @@ lite version of communityGIS without geonode
 ## Maintainer
 - Animesh Nautiyal
 ## Contributor list
-> Please add your name first PR
+> Add your name in first PR
 ## Formatting
 
 Format your PR titles likewise:
@@ -24,5 +24,5 @@ Tag can be:
 - CMS (change to CMS page)
 
 ## contribute
-[Beginner guide](https://opensource.guide/how-to-contribute/)
-[Setup](https://gist.github.com/AnimeshN/daf9a2db36744a920ddb21c7f1523167)
+- [Beginner guide](https://opensource.guide/how-to-contribute/)
+- [Setup](https://gist.github.com/AnimeshN/daf9a2db36744a920ddb21c7f1523167)
