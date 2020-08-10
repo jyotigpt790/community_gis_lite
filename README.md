@@ -1,7 +1,7 @@
 # community_gis_lite
 lite version of communityGIS without geonode
 
-# maintainer
-Animesh Nautiyal
+## Maintainer
+Animesh Nautiyal [nautiyalanimesh@gmail.com]
 
 # Contributor list
