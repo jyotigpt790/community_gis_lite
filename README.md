@@ -9,6 +9,7 @@ lite version of communityGIS without geonode
 - Animesh Nautiyal
 ## Contributor list
 > Add your name in first PR
+Jyoti gupta
 ## Formatting
 
 Format your PR titles likewise:
